@@ -1,4 +1,4 @@
-# 🐝 BeeVue — Vue 3 Open UI Component Library
+# 🐝 BeeVue
 
 **BeeVue** is an **open-source**, **Tailwind CSS** + **shadcn-inspired** Vue 3 component library that helps you build **modern, beautiful, and accessible** interfaces with speed and consistency.  
 
